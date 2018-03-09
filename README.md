@@ -1,1 +1,3 @@
-# WhatULike-Wechat-Project
+# 
+受此视频启发：https://www.vmovier.com/51712?from=user_like
+旨在帮助大学生找到内心真正热爱的事物。通过一个简单 的php移动网站应用的开发，借助个人公众号在朋友圈中传播。服务器、域名 解析等后台技术采用阿里云。
